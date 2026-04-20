@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Shield, AlertTriangle, XCircle, Search, Globe, ExternalLink, CheckCircle } from 'lucide-react';
 
 const URLSafetyChecker = () => {
